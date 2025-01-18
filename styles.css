@@ -1,5 +1,7 @@
 body {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:4vmin;
+  overflow-y: hidden;
 }
 
 .main {
@@ -9,4 +11,6 @@ body {
   justify-content: center;
   text-align: center;
   height: 100vh;
+  margin-left:10vmin;
+  margin-right:10vmin;
 }
